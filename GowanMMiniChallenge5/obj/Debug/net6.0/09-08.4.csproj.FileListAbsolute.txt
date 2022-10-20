@@ -1,0 +1,30 @@
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.AssemblyInfo.cs
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\09-08.4\bin\Debug\net6.0\09-08.4.exe
+C:\Users\petal\Desktop\09-08.4\bin\Debug\net6.0\09-08.4.deps.json
+C:\Users\petal\Desktop\09-08.4\bin\Debug\net6.0\09-08.4.runtimeconfig.json
+C:\Users\petal\Desktop\09-08.4\bin\Debug\net6.0\09-08.4.dll
+C:\Users\petal\Desktop\09-08.4\bin\Debug\net6.0\09-08.4.pdb
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.dll
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\refint\09-08.4.dll
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.pdb
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\09-08.4.genruntimeconfig.cache
+C:\Users\petal\Desktop\09-08.4\obj\Debug\net6.0\ref\09-08.4.dll
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\bin\Debug\net6.0\09-08.4.exe
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\bin\Debug\net6.0\09-08.4.deps.json
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\bin\Debug\net6.0\09-08.4.runtimeconfig.json
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\bin\Debug\net6.0\09-08.4.dll
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\bin\Debug\net6.0\09-08.4.pdb
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.AssemblyInfo.cs
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.dll
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\refint\09-08.4.dll
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.pdb
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\09-08.4.genruntimeconfig.cache
+C:\Users\petal\Desktop\GitHub Redo\GowanMMiniChallenge5\09-08.4\obj\Debug\net6.0\ref\09-08.4.dll
