@@ -1,6 +1,6 @@
 # GowanMMiniChallenge5
 Madeline Gowan
-10-20-2022
+10-18-2022
 Mini Challenge 5 - Redo
 In this program we have to create a MadLib, allowing the user to input various words which will then combine together cleanly into a story.
 
