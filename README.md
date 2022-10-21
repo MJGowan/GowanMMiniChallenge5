@@ -8,3 +8,6 @@ Review by Daniel Decoito: Everything works as intended but there are a few issue
 
 
 Response by Madeline Gowan: I did my best to take this advice and make my program better in terms of user experience, by explaining the code and the program as well as adding friendlier responses. I adjusted the if statements and while loop to hopefully fix the issue with the game being terminated. I also used string interpolation to clean up the code, as suggested. Thank you very much for the review! It helped a lot.
+
+
+Response to response by Dan Decoito. The app is alot better the issues have been fixed and everything works great. I'm realy impressed that you actually took the time to fix improve the game kudos to you. 
